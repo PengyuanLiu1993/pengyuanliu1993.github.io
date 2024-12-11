@@ -2,9 +2,9 @@
 title: "Extracting locations from sport and exercise-related social media messages using a neural network-based bilingual toponym recognition model"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.5311/JOSIS.2022.24.167
 excerpt: 'Sport and exercise contribute to health and well-being in cities. While previous research has mainly focused on activities at specific locations such as sport facilities, informal sport that occur at arbitrary locations across the city have been largely neglected. Such activities are more challenging to observe, but this challenge may be addressed using data collected from social media platforms, because social media users regularly generate content related to sports and exercise at given locations. This allows studying all sport, including those informal sport which are at arbitrary locations, to better understand sports and exercise-related activities in cities. However, user-generated geographical information available on social media platforms is becoming scarcer and coarser. This places increased emphasis on extracting location information from free-form text content on social media, which is complicated by multilingualism and informal language. To support this effort, this article presents an end-to-end deep learning-based bilingual toponym recognition model for extracting location information from social media content related to sports and exercise. We show that our approach outperforms five state-of-the-art deep learning and machine learning models. We further demonstrate how our model can be deployed in a geoparsing framework to support city planners in promoting healthy and active lifestyles.'
 date: 2022-06-20
 venue: 'Journal of Spatial Information Science'
+paperurl: 'https://doi.org/10.5311/JOSIS.2022.24.167'
 citation: 'Liu, P., Koivisto, S., Hiippala, T., van der Lijn, C., Väisänen, T., Nurmi, M., Toivonen, T., Vehkakoski, K., Pyykönen, J., Virmasalo, I. and Simula, M., 2022. Extracting locations from sport and exercise-related social media messages using a neural network-based bilingual toponym recognition model. Journal of Spatial Information Science.'
 ---
