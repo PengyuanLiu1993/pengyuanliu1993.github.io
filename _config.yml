@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Pengyuan Liu"
+title                    : "Dr. Pengyuan Liu"
 title_separator          : "-"
-name                     : &name "Pengyuan Liu"
+name                     : &name "Dr. Pengyuan Liu"
 description              : &description "Quantitative Urban Geographer"
 url                      : https://pengyuanliu1993.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "pengyuanliu1993/pengyuanliu1993.github.io"
 author:
   # Biographic information
   avatar           : "bio.png"
-  name             : "Pengyuan Liu"
+  name             : "Dr. Pengyuan Liu"
   pronouns         : "He/Him"  
   bio              : "Quantitative Urban Geographer"
   location         : "Singapore"
