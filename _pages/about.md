@@ -29,6 +29,6 @@ Work Experiences
 
 Get in Touch
 ------
-Please feel free to contact me if you have any ideas for collaboration or would like to engage in discussions or even for just a cup of coffee together at [pengyuan.liu@sec.ethz.ch] :). 
+Please feel free to contact me if you have any ideas for collaboration or would like to engage in discussions or even for just a cup of coffee together at <pengyuan.liu@sec.ethz.ch> :). 
 
 
