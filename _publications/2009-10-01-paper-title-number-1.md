@@ -2,7 +2,7 @@
 title: "A Perception-powered Urban Digital Twin to Support Human-Centered Urban Planning and Sustainable City Development"
 collection: publications
 category: manuscripts
-excerpt: 'Our study developed and implemented an Urban Digital Twin platform designed for the dual purposes of objective feature evaluation and subjective visual perception, alongside the prediction of perceptions in simulated scenarios.'
+excerpt: 'Our study developed and implemented an Urban Digital Twin platform designed for the dual purposes of objective feature evaluation and subjective visual perception, alongside the prediction of perceptions in simulated scenarios'
 date: 2025-01-01
 venue: 'Cities'
 paperurl: 'https://doi.org/10.1016/j.cities.2024.105473'
