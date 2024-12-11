@@ -21,7 +21,7 @@ repository               : "PengyuanLiu1993/PengyuanLiu1993.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio_myself2.png"
+  avatar           : "bio.png"
   name             : "Pengyuan Liu"
   pronouns         : "He/Him"  
   bio              : "Quantitative Urban Geographer"
