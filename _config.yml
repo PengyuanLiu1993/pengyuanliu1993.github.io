@@ -12,7 +12,7 @@ title                    : "Pengyuan Liu"
 title_separator          : "-"
 name                     : &name "Pengyuan Liu"
 description              : &description "Quantitative Urban Geographer"
-url                      : "https://academicpages.github.io"
+url                      : https://academicpages.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
