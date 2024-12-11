@@ -2,11 +2,9 @@
 title: "A Perception-powered Urban Digital Twin to Support Human-Centered Urban Planning and Sustainable City Development"
 collection: publications
 category: manuscripts
-permalink: 
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Urban Digital Twins (UDTs) offer a promising avenue for advancing sustainable urban development by mirroring physical environments and complex urban dynamics. Such technology enables urban planners to predict and analyze the impacts of various urban scenarios, addressing a global priority for sustainable urban environments. However, their potential in public engagement for environmental perception remains unfulfilled, with existing research lacking the capability to analyze urbanscapes' visual features and predict public perceptions based on photo-realistic renderings. To fill the gap, our study developed and implemented a UDT platform designed for the dual purposes of objective feature evaluation and subjective visual perception, alongside the prediction of perceptions in simulated scenarios. We incorporated DeepLabV3, a deep learning model for imagery semantic segmentation, to quantify a series of visual features within the built environment, such as the proportion of vegetation and architectural elements. Subjective visual perceptions (e.g. safety and lively) are captured using immersive virtual reality to gather public perceptions of different scenarios and learn patterns. Further, utilizing a photo-realistic rendering engine, high-quality renderings of textures and materials for UDT were achieved, and we proved their veracity based on a perception experiment. Afterwards, we employ the random forest algorithm for automated perception predictions of rendering scenarios. The implementation was demonstrated with a case study on an urban greenway in the central area of Singapore. We compared both the objective evaluation and subjective perception results, followed by a demonstration of automated visual perception prediction through photo-realistic scenario simulations, such as modifying vegetation density or introducing new architectural elements to the skyline, to predict the perception of scenarios before they are built, leading to more efficient and automated urban planning.'
 date: 2025-01-01
 venue: 'Cities'
-slidesurl: ''
-paperurl: ''
-citation: ''
+paperurl: 'https://doi.org/10.1016/j.cities.2024.105473'
+citation: 'Luo, J., Liu, P., Xu, W., Zhao, T. and Biljecki, F., 2025. A perception-powered urban digital twin to support human-centered urban planning and sustainable city development. Cities, 156, p.105473.'
 ---
