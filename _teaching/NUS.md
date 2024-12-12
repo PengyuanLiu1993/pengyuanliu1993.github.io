@@ -1,5 +1,5 @@
 ---
-title: "GeoDesig"
+title: "GeoDesign"
 collection: teaching
 type: "Guest Lecture"
 venue: "Department of Architecture, National University of Singapore"
