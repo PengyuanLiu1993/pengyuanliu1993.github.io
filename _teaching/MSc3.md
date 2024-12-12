@@ -1,5 +1,5 @@
 ---
-title: "MSc Thesis Co-supervision"
+title: "MSc Thesis Co-supervision -- with Dr. Petteri Muukkonen"
 collection: teaching
 type: "Postgraduate thesis"
 venue: "Department of Geosciences and Geography, University of Helsinki"
