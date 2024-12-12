@@ -1,5 +1,5 @@
 ---
-title: "Sea-City Interface, Singapore-ETH Centre"
-excerpt: "Module Coordinator work for project Sea-City Interface <br/><img src='/images/SCI LOGO.jpg'>"
+title: "Scientific Member for Academic Track-State of Map 2022 Conference"
+excerpt: "<br/><img src='/images/OSMAcademic.png'>"
 collection: portfolio
 ---
