@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5caeac8a-decf-410e-a522-0b4089ddfad5)---
+---
 title: "MSc Thesis Co-supervision -- with Assistant Prof. Filip Biljecki and Associate Prof. Rudi Stouffs"
 collection: teaching
 type: "Postgraduate thesis"
