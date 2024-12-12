@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/5caeac8a-decf-410e-a522-0b4089ddfad5)---
 title: "MSc Thesis Co-supervision -- with Assistant Prof. Filip Biljecki and Associate Prof. Rudi Stouffs"
 collection: teaching
 type: "Postgraduate thesis"
@@ -6,3 +6,9 @@ venue: "Department of Architecture, National University of Singapore"
 date: 2024-04-14
 location: "Singapore, Singapore"
 ---
+
+Students (Name, Affiliation, These Topic):
+
+1. Jing Tang, Department of Architecture, National University of Singapore, *Advancing Local Climate Zone Characterization through Urban Data: From Grids to Functional Unites*
+2. Xiaoyong Gao, Department of Geography, National University of Singapore, *Spatial Analysis of Climate Gentrification in Brisbane, Australia.*
+3. Jie Mu, Department of Architecture, National University of Singapore, *Urban Planning with Generative Adversarial Network*
