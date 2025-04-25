@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Dr. Pengyuan Liu"
 title_separator          : "-"
 name                     : &name "Dr. Pengyuan Liu"
-description              : &description "Quantitative Urban Geographer"
+description              : &description "Lecturer (Assist Prof.) in Digital Planning"
 url                      : https://pengyuanliu1993.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pengyuanliu1993/pengyuanliu1993.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "bio.png"
   name             : "Dr. Pengyuan Liu"
   pronouns         : "He/Him"  
-  bio              : "Quantitative Urban Geographer"
-  location         : "Singapore"
-  employer         : "Singapore-ETH Centre"
+  bio              : "Lecturer (Assist Prof.) in Digital Planning"
+  location         : "United Kingdom"
+  employer         : "University of Glasgow"
   uri              : # URL
-  email            : "pengyuan.liu@sec.ethz.ch" 
+  email            : "Pengyuan.Liu@glasgow.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
